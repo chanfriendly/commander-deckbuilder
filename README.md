@@ -1,6 +1,6 @@
 # MTG Commander Deck Builder
 
-An API that helps build Magic: The Gathering Commander decks based on your chosen commander, budget constraints, and other parameters.
+An API that helps build Magic: The Gathering Commander decks based on your chosen commander, budget constraints, and other parameters. Thi is largely meant for newcomers to the game that might be overwhelmed with choice. 
 
 ## Features
 
@@ -112,7 +112,7 @@ Currently a personal project, but suggestions and feedback are welcome!
 
 ## License
 
-I don't know enough about licenses yet, but take it and run with it if you can do better.
+MIT License
 
 ## Acknowledgments
 
