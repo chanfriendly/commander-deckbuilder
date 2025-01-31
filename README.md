@@ -2,6 +2,9 @@
 
 A web application that helps users build Magic: The Gathering Commander (EDH) decks based on their chosen commander, budget constraints, power level preferences, and strategic approach.
 
+![image](https://github.com/user-attachments/assets/92e97c76-1464-4307-83ac-0ca01bc36df8)
+
+
 ## Current Implementation
 
 ### Backend (Flask)
